@@ -11,6 +11,7 @@ namespace M17C_ex01
         static void Main(string[] args)
         {
             Console.WriteLine("Eu sou o Rúben... Jogo di bola");
+            Console.WriteLine("O Magalhães é o poderosão do GIT");
         }
     }
 }
